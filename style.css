@@ -1,0 +1,85 @@
+body {
+  /* height: 500px;
+  width: 800px; */
+  margin: auto;
+  background: linear-gradient(90deg, rgb(122, 0, 0) 0%, rgb(127, 1, 1) 35%, rgb(185, 3, 3) 100%);
+}
+.container{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.box{
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+}
+
+
+
+.mainMessage {
+  font-size: x-large;
+  color: rgb(35, 35, 159);
+  
+}
+
+.boundingBox{
+  text-align: center;
+  display: inline-block;
+  width: 300px;
+  height: 350px;
+  padding: 10px;
+  border: 1px solid aqua;
+}
+
+
+.playerDisp{
+  color: white;
+  text-align: center;
+} */
+
+
+.scoreMessage{
+  color: white;
+  text-align: center;
+  margin-left: -80px; 
+} 
+
+#score{
+  color:white;
+  text-align: center;
+  margin-top: -18px;
+  margin-left: 65px;
+}
+
+.diceImage{
+  width: 120px;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+.moveButton {
+  background-color: #5e4caf; /* Green */
+  border: none;
+  color: white;
+  width: 60px;
+  height: 30px;
+  margin-left: 230px;
+  /* text-align: center; */
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.retryButton{
+  margin-top: -10px;
+  background-color: #d62512; /* Green */
+  border: none;
+  color: white;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+
+}
